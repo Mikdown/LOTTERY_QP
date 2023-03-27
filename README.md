@@ -1,18 +1,8 @@
 # Lottery-Picker
-### Lottery-Picker is a data analysis project which is designed to identify if meteoroligical conditions at the time and place of the drawing have any affect on the winning numbers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) winning number data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is done. This establishes a baseline for future endevors such as:
+### Lottery-Picker is a data analysis project which is designed to identify whether atmospheric conditions at the time and place of the drawing have any affect on the winning numbers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) winning number data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is done. This establishes a baseline for future endevors such as:
    1. Inclusion of other data types, e.g., geophysical, astonomical, etc...
    2. Development of functions, e.g., enhanced quick-pick, web UI, etc...
    3. Addition of lottories other than MegaMillions.
-
-### This project can be executed using two different methods:
-   1. Locally on the users workstation:
-      - File to execute: MegaMil_lotto.ipynb.
-         - Creates and reads a SQLite DB file in the /assets folder.
-   2. Remotely in Google Colab:
-      - File to execute: colab_lotto.ipynb *** NOTE *** this file will not run in the IDE because the path to the SQLite DB file is N/A.
-         - Includes a link to "Run in Colab" in the first cell.
-         - Creates and reads a SQLite DB file in the virtual desktop local folder.
-   
 
    ## Setup development environment:
 
@@ -20,6 +10,15 @@
 
         1. Clone the Github Repository to your local workspace: 
    [Link to repo](https://github.com/Mikdown/Lottery-Picker)
+   
+   ### This project can be executed using two different methods:
+   1. Locally on the users workstation:
+      - File to execute: MegaMil_lotto.ipynb.
+         - Creates and reads a SQLite DB file in the /assets folder.
+   2. Remotely in Google Colab:
+      - File to execute: colab_lotto.ipynb *** NOTE *** this file will not run in the IDE because the path to the SQLite DB file is N/A.
+         - Includes a link to "Run in Colab" in the first cell.
+         - Creates and reads a SQLite DB file in the virtual desktop local folder.
 
    ## Setup virtual environment:
 
