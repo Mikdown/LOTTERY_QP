@@ -39,8 +39,8 @@
    ### To select a specific environment, use the Python: Select Interpreter command from the Command Palette (⇧⌘P).
       - Click on Command Palette.
          - In the dropdown click on "Shaow and Run Commands>.
-      - In Command Palette enter: 
-         - Python: Select Interpreter command
+      - In Command Palette enter: Python: Select Interpreter
+      - Chose the venv interpreter.
    
    [Documentation Link - Using Python Environments.](https://code.visualstudio.com/docs/python/environments)
 
