@@ -35,7 +35,7 @@
         
    2. While in the venv shell enter: pip install -r requirements.txt
 
-[Documentation Link - Installing packages using pip and virtual environments.](https://packaging.python.org/en/latest/guides/installing-using-pip-and- virtual-environments/#creating-a-virtual-environment)
+[Documentation Link - Installing packages using pip and virtual environments.](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
    
 ## Requirements:
    
