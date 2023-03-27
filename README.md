@@ -15,7 +15,7 @@
          - The two files are cleaned(transformed) with Pandas.
          - Data is read in from the database, filtered, grouped and a SQL join is performed on 2 tables.
    4. Feature 3 - Make a Tableau dashboard to display your data.
-      Feature 3 - Make a visualization with Bokeh.
+       Feature 3 - Make a visualization with Bokeh.
          - I created a Tableau Dashboard containing bar charts of all of the results from the "mm_counts" table with Tableau Public Desktop and then I published it to the Tableau Public site.
          - Unfortunately each of the bar charts have verticle sliders which are not interactive in Visual Studio Code but they are in Google Colab.
 
