@@ -33,4 +33,14 @@
         
         2. While in the venv shell enter: pip install -r requirements.txt
    [Documentation Link - Installing packages using pip and virtual environments.](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
+   
+   ## Selecting the virtual environment interpreter in Visual Studio Code:
+   
+   ### To select a specific environment, use the Python: Select Interpreter command from the Command Palette (⇧⌘P).
+      - Click on Command Palette.
+         - In the dropdown click on "Shaow and Run Commands>.
+      - In Command Palette enter: 
+         - Python: Select Interpreter command
+   
+   [Documentation Link - Usiong Python Environments.](https://code.visualstudio.com/docs/python/environments)
 
