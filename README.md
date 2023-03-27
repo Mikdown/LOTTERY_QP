@@ -1,7 +1,8 @@
 # Lottery-Picker
-### Lottery-Picker is a data analysis project which is designed to identify if meteoroligical conditions at the time and place of the drawing have any affect on the winning mubers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) winning number data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is done. This establishes a baseline for future endevors such as:
+### Lottery-Picker is a data analysis project which is designed to identify if meteoroligical conditions at the time and place of the drawing have any affect on the winning numbers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) winning number data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is done. This establishes a baseline for future endevors such as:
    1. Inclsion of other data types, e.g., geophysical, astonomical, etc...
    2. Development of functions, e.g., enhanced quick-pick, web UI, etc...
+   3. Addition of lottories other than MegaMillions.
 
    ## Setup development environment:
 
