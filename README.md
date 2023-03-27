@@ -5,23 +5,24 @@
    3. Addition of lottories other than MegaMillions.
 
 ### The following project feature requirements are met:
-   1. Requirement - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
-   2. Feature 1 - Read two data files (CSV).
-      Feature 1 - Set up a local database and read data in with SQLite.
-         - Two CSV files are read in from Github.
-         - After transformation the files are read into a local SQLite3 DB file to be used for futher analysis.
-   3. Feature 2 - Clean your data.
-      Feature 2 - Perform a SQL join.
-         - The two files are cleaned(transformed) with Pandas.
-         - Data is read in from the database, filtered, grouped and a SQL join is performed on 2 tables.
-   4. Feature 3 - Make a Tableau dashboard to display your data.
-       Feature 3 - Make a visualization with Bokeh.
-         - I created a Tableau Dashboard containing bar charts of all of the results from the "mm_counts" table with Tableau Public Desktop and then I published it to the Tableau Public site.
-         - Unfortunately each of the bar charts have verticle sliders which are not interactive in Visual Studio Code but they are in Google Colab.
+   - Requirement - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
+   - Feature 1 - Read two data files (CSV).
+   - Feature 1 - Set up a local database and read data in with SQLite.
+       - Two CSV files are read in from Github.
+       - After transformation the files are read into a local SQLite3 DB file to be used for futher analysis.
+   - Feature 2 - Clean your data.
+   - Feature 2 - Perform a SQL join.
+       - The two files are cleaned(transformed) with Pandas.
+       - Data is read in from the database, filtered, grouped and a SQL join is performed on 2 tables.
+   - Feature 3 - Make a Tableau dashboard to display your data.
+   - Feature 3 - Make a visualization with Bokeh.
+       - I created a Tableau Dashboard containing bar charts of all of the results from the "mm_counts" table with Tableau Public Desktop and then I published it to the Tableau Public site.
+       - Unfortunately each of the bar charts have verticle sliders which are not interactive in Visual Studio Code but they are in Google Colab.
+       - 
 
 [Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/mike7586/viz/MegamillionsNumbers/Dashboard1)
 
-   5. Feature 4 - Utilize a virtual environment and include instructions in your README on how the user should set one up.
+   - Feature 4 - Utilize a virtual environment and include instructions in your README on how the user should set one up.
 
 ## Setup development environment:
 
