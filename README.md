@@ -42,5 +42,5 @@
       - In Command Palette enter: 
          - Python: Select Interpreter command
    
-   [Documentation Link - Usiong Python Environments.](https://code.visualstudio.com/docs/python/environments)
+   [Documentation Link - Using Python Environments.](https://code.visualstudio.com/docs/python/environments)
 
