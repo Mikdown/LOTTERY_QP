@@ -105,7 +105,7 @@ xyzservices==2023.2.0
    
 ### To select a specific environment, use the Python: Select Interpreter command from the Command Palette (⇧⌘P).
    1. Click on Command Palette.
-      - In the dropdown click on "Shaow and Run Commands>.
+      - In the dropdown click on "Show and Run Commands>.
    2. In Command Palette enter: Python: Select Interpreter
    3. Chose the venv interpreter.
    
