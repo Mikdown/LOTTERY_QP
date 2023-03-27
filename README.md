@@ -8,9 +8,11 @@
 
 ## Setup virtual environment:
 
-1. It is recommended to create a python virtual environment so you do not pollute your working folder:
-  - In a Terminal App or Terminal window in your IDE navigate to the /Lottery-Picker folder.
-  - enter: python -m venv venv - creates a python virtual environment named "venv"
-  - For Unix/MacOS enter: source venv/bin/activate
+### It is recommended to create a python virtual environment so you do not pollute your working folder:
+1. In a Terminal App or Terminal window in your IDE navigate to the /Lottery-Picker folder.
+    - To create a virtual environment named "venv" enter: python -m venv venv
+    - To activate the virtual environment enter:
+      - For Unix/MacOS enter: source venv/bin/activate
+      - For Windows enter: venv\Scripts\activate
 
 pip install wheel
