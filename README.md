@@ -1,8 +1,8 @@
 # Lottery-Picker
-### Lottery-Picker is a data analysis project which is designed to identify whether atmospheric conditions at the time and place of the drawing have any affect on the numbers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) drawing data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is derived.
+### Lottery-Picker is a data analysis project which is designed to identify whether atmospheric conditions at the time and place of the drawing can affect the numbers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) drawing data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is derived.
 
 ### The following project feature requirements are met:
-   - Requirement - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
+   - Requirement - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
    - Feature 1 - Read two data files (CSV).
    - Feature 1 - Set up a local database and read data in with SQLite.
        - Two CSV files are read in from Github.
@@ -13,7 +13,7 @@
        - Data is read in from the database, filtered, grouped and a SQL join is performed on 2 tables.
    - Feature 3 - Make a Tableau dashboard to display your data.
    - Feature 3 - Make a visualization with Bokeh.
-       - I created a Tableau Dashboard containing bar charts of all of the results from the "mm_counts" table with Tableau Public Desktop and then I published it to the Tableau Public site.
+       - I created a Tableau Dashboard containing bar charts of all previous drawing results with Tableau Public Desktop and then I published it to the Tableau Public site and embedded the html in a Jupyter Notebook code cell.
        - Unfortunately each of the bar charts have verticle sliders which are not interactive in Visual Studio Code but they are in Google Colab.
        - 
 
