@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        
+        
+        "Users/miked/Documents/Code_Louisville_Project/Lottery-Picker/venv_lotto/bin/lib/*"
+
+    ],
+    "python.analysis.include": [
+        "Users/miked/Documents/Code_Louisville_Project/Lottery-Picker/venv_lotto/bin/lib/*"
+    ]
+}
