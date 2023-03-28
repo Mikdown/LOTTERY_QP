@@ -1,8 +1,5 @@
 # Lottery-Picker
-### Lottery-Picker is a data analysis project which is designed to identify whether atmospheric conditions at the time and place of the drawing have any affect on the winning numbers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) winning number data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is done. This establishes a baseline for future enhancements such as:
-   1. Inclusion of other data types, e.g., geophysical, astonomical, etc...
-   2. Development of functions, e.g., enhanced quick-pick, web UI, etc...
-   3. Addition of lottories other than MegaMillions.
+### Lottery-Picker is a data analysis project which is designed to identify whether atmospheric conditions at the time and place of the drawing have any affect on the numbers drawn. By importing, cleaning, and transforming all historic lottery(MegaMillions) drawing data available and ten years of meteoroligical data for the drawing site(Atlanta, GA.) a comparison analysis is derived.
 
 ### The following project feature requirements are met:
    - Requirement - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
@@ -39,7 +36,7 @@
    2. Remotely in Google Colab:
       - File to execute: colab_lotto.ipynb *** NOTE *** this file will not run in the IDE because the path to the SQLite DB file is N/A.
          - Includes a link to "Run in Colab" in the first cell.
-         - Creates and reads a SQLite DB file in the virtual desktop local folder.
+         - Creates and reads a SQLite DB file in the Colab virtual desktop local folder.
 
 ## Setup virtual environment:
 
@@ -51,7 +48,7 @@
            - Unix/MacOS enter: source venv/bin/activate
            - Windows enter: venv\Scripts\activate
  
-[Documentation Link - Creation of virtual environments.](https://docs.python.org/3/library/venv.html)
+[Documentation Link - Creation of virtual environments.](https://code.visualstudio.com/docs/python/environments#_creating-environments))
         
    2. While in the venv shell enter: pip install -r requirements.txt
 
@@ -107,7 +104,7 @@ xyzservices==2023.2.0
    1. Click on Command Palette.
       - In the dropdown click on "Show and Run Commands>.
    2. In Command Palette enter: Python: Select Interpreter
-   3. Chose the venv interpreter.
+   3. Choose the "venv" interpreter.
    
  [Documentation Link - Using Python Environments.](https://code.visualstudio.com/docs/python/environments)
 
