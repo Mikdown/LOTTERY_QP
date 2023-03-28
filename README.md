@@ -49,15 +49,15 @@
 
 [VS Code Documentation Link - Creating virtual environments.](https://code.visualstudio.com/docs/python/environments#_creating-environments)
 
-       - To activate the virtual environment enter:
-           - Unix/MacOS enter: source venv/bin/activate
-           - Windows enter: venv\Scripts\activate
+   2. To activate the virtual environment enter:
+        - Unix/MacOS enter: source venv/bin/activate
+        - Windows enter: venv\Scripts\activate
            
 [Python Documentation Link - 12.2. Creating virtual environments.](https://docs.python.org/3/library/venv.html)
            
 [VS Code Documentation Link - Working with Python interpreters.](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
 
-   2. While in the venv shell enter: pip install -r requirements.txt
+   3. While in the venv shell enter: pip install -r requirements.txt
 
 [Python Documentation Link - 12.3. Managing Packages with pip.](https://docs.python.org/3/library/venv.html)
 
