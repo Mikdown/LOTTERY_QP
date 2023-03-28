@@ -1,6 +1,8 @@
 # MACOS Specific
 .DS_store
 
+#VS Code Specific
+.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
