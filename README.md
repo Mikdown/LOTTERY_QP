@@ -23,7 +23,7 @@
 
 ## Setup development environment:
 
-### This project was developed using Visual Studio Code Version: 1.76.2 with Jupyter v2023.2.1200692131 and Python Kernel version 3.10.6.
+### This project was developed using Visual Studio Code Version: 1.76.2 with Jupyter v2023.2.1200692131 and Python Kernel version 3.10.6:
 
    1. Clone the Github Repository to your local workspace:
   
@@ -44,17 +44,22 @@
       
    1. In a Terminal App or Terminal window in your IDE navigate to the /Lottery-Picker folder.
        - To create a virtual environment named "venv" enter: python -m venv venv
+
+[Python Documentation Link - 12.2. Creating virtual environments.](https://docs.python.org/3/library/venv.html)
+
+[VS Code Documentation Link - Creating virtual environments.](https://code.visualstudio.com/docs/python/environments#_creating-environments)
+
        - To activate the virtual environment enter:
            - Unix/MacOS enter: source venv/bin/activate
            - Windows enter: venv\Scripts\activate
+           
+[Python Documentation Link - 12.2. Creating virtual environments.](https://docs.python.org/3/library/venv.html)
+           
+[VS Code Documentation Link - Working with Python interpreters.](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
 
    2. While in the venv shell enter: pip install -r requirements.txt
 
-[VS Code Documentation Link - Working with Python interpreters.](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
-
-[Python Documentation Link - Creation of virtual environments.](https://docs.python.org/3/library/venv.html)
-
-[VS Code Documentation Link - Creating virtual environments.](https://code.visualstudio.com/docs/python/environments#_creating-environments)
+[Python Documentation Link - 12.3. Managing Packages with pip.](https://docs.python.org/3/library/venv.html)
 
 [Python Documentation Link - Installing packages using pip and virtual environments.](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
    
