@@ -15,7 +15,7 @@
    - Feature 3 - Make a visualization with Bokeh.
        - I created a Tableau Dashboard containing bar charts of all previous drawing results with Tableau Public Desktop and then I published it to the Tableau Public site and embedded the html in a Jupyter Notebook code cell.
        - Unfortunately each of the bar charts have verticle sliders which are not interactive in Visual Studio Code but they are in Google Colab.
-       - 
+       - A Bokeh bar graph is created and displayed.
 
 [Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/mike7586/viz/MegamillionsNumbers/Dashboard1)
 
