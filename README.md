@@ -34,7 +34,7 @@
       - File to execute: MegaMil_lotto.ipynb.
          - Creates and reads a SQLite DB file in the /assets folder.
    2. Remotely in Google Colab:
-      - File to execute: colab_lotto.ipynb *** NOTE *** this file will not run in the IDE because the path to the SQLite DB file is N/A.
+      - File to execute: colab_lotto.ipynb.
          - Includes a link to "Run in Colab" in the first cell.
          - Creates and reads a SQLite DB file in the Colab virtual desktop local folder.
 
